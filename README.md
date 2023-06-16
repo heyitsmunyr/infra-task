@@ -27,3 +27,7 @@ docker login
 
 To pull the image: 
 docker pull itsmunyrhere/flaskapp:latest
+
+
+#CI
+1. Github actions is being used, a simple workflow created that just runs on Saturday at 7pm using cron. 
