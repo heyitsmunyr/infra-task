@@ -33,4 +33,7 @@ docker pull itsmunyrhere/flaskapp:latest
 
 
 #CI
-1. Github actions is being used, a simple workflow created that just runs on Saturday at 7pm using cron. 
+Github actions is being used, a simple workflow created that just runs on Saturday at 7pm using cron. 
+
+NOTE:
+Docker repo: https://hub.docker.com/r/itsmunyrhere/flaskapp
